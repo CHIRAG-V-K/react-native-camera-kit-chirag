@@ -5,7 +5,7 @@
 <p align="center">
   A <strong>high performance, easy to use, rock solid</strong><br>
   camera library for React Native apps.
-  <****>Added More Customizability to it to work more efficciently.</****>
+  <b>Added More Customizability to it to work more efficciently.</b>
 </p>
 
 <p align="center">
