@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml:1:1-8:12
+INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml:2:11-36
+		INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml
+		INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml:4:22-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml:6:22-78
+uses-sdk
+INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml
+INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml
+INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml
+INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml
+		ADDED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml
+		INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml
+		ADDED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml
+		INJECTED from D:\iphone\trialapp\node_modules\react-native-camera-kit-rb\android\src\main\AndroidManifest.xml

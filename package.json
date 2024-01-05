@@ -1,8 +1,8 @@
 {
-  "name": "react-native-camera-kit-rb",
+  "name": "react-native-camera-kit-chirag",
   "repository": {
     "type": "git",
-    "url": "https://github.com/teslamotors/react-native-camera-kit.git"
+    "url": "git+https://github.com/CHIRAG-V-K/react-native-camera-kit-chirag.git"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
@@ -10,6 +10,7 @@
   "version": "0.0.1",
   "description": "A high performance, fully featured, rock solid camera library for React Native applications",
   "nativePackage": true,
+  "private": false,
   "scripts": {
     "build": "tsc --project tsconfig.json",
     "clean": "rm -rf dist/",
@@ -51,5 +52,18 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
-  }
+  },
+  "types": "./dist/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/teslamotors/react-native-camera-kit/issues"
+  },
+  "homepage": "https://github.com/teslamotors/react-native-camera-kit#readme",
+  "directories": {
+    "doc": "docs"
+  },
+  "keywords": [
+    "react-native",
+    "camera"
+  ],
+  "author": "Chirag along with (https://github.com/teslamotors/react-native-camera-kit.git)"
 }

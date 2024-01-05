@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#BF000000</color>
+    <dimen name="border_length">30dp</dimen>
+</resources>
