@@ -19,7 +19,7 @@
 <table>
   <tr>
     <td>
-      <img src="images/screenshot.jpg"/>
+      <img src="images/screenshot.png"/>
     </td>
     <td>
       <ul>
