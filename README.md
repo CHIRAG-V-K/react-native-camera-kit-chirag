@@ -5,7 +5,7 @@
 <p align="center">
   A <strong>high performance, easy to use, rock solid</strong><br>
   camera library for React Native apps.</br>
-  <b>Added More Customizability to it to work more efficciently.</b>
+  <b>Added More Customizability to it to work more efficiently.</b>
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 ## Installation (RN > 0.60)
 
 ```bash
-yarn add react-native-camera-kit
+yarn add react-native-camera-kit-chirag
 ```
 
 ```bash
@@ -80,7 +80,7 @@ Add the following usage descriptions to your `Info.plist` (usually found at: `io
 Full screen camera component that holds camera state and provides camera controls
 
 ```ts
-import { CameraScreen } from 'react-native-camera-kit';
+import { CameraScreen } from 'react-native-camera-kit-chirag';
 ```
 
 ```tsx
@@ -123,7 +123,7 @@ Additionally, the camera screen can be used for barcode scanning
 Barebones camera component
 
 ```ts
-import { Camera, CameraType } from 'react-native-camera-kit';
+import { Camera, CameraType } from 'react-native-camera-kit-chirag';
 ```
 
 ```tsx
@@ -145,7 +145,7 @@ import { Camera, CameraType } from 'react-native-camera-kit';
 | `ratioOverlayColor`            | Color                   | Any color with alpha. Default: `'#ffffff77'`                                                                                                                                                                                                                                                                                                  |
 | `resetFocusTimeout`            | Number                  | **iOS only.** Dismiss tap to focus after this many milliseconds. Default `0` (disabled). Example: `5000` is 5 seconds.                                                                                                                                                                                                                            |
 | `resetFocusWhenMotionDetected` | Boolean                 | **iOS only.** Dismiss tap to focus when focus area content changes. Native iOS feature, see documentation: https://developer.apple.com/documentation/avfoundation/avcapturedevice/1624644-subjectareachangemonitoringenabl?language=objc). Default `true`.                                                                                        |
-| `onOrientationChange`          | Function                | Callback when physical device orientation changes. Returned event contains `orientation`. Ex: `onOrientationChange={(event) => console.log(event.nativeEvent.orientation)}`. Use `import { Orientation } from 'react-native-camera-kit'; if (event.nativeEvent.orientation === Orientation.PORTRAIT) { ... }` to understand the new value |
+| `onOrientationChange`          | Function                | Callback when physical device orientation changes. Returned event contains `orientation`. Ex: `onOrientationChange={(event) => console.log(event.nativeEvent.orientation)}`. Use `import { Orientation } from 'react-native-camera-kit-chirag'; if (event.nativeEvent.orientation === Orientation.PORTRAIT) { ... }` to understand the new value |
 
 ### Barcode Props (Optional)
 
